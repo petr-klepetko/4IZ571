@@ -1,2 +1,4 @@
-ahoj
-Já jsem Péťa
+<?php
+
+echo "ahoj";
+echo "já jsem Petr";
