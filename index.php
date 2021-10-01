@@ -1,4 +1,4 @@
 <?php
 
-echo "ahoj\n";
+echo "ahoj";
 echo "já jsem Petr";
